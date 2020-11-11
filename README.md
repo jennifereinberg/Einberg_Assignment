@@ -1,6 +1,10 @@
 # f5_take_home_assignment
 
-This is the F5 take home assignment:
+This project fulfills the requirements for the F5 Take Home Assignment
+
+It creates a webpage that displays "Hello World!" at http://test-lb-tf-1740807364.eu-west-2.elb.amazonaws.com/
+
+Text of the assignment: 
 
 <i>
 Technical Task: Deploy an application via Orchestration/Infrastructure Configuration
