@@ -2,6 +2,7 @@
 
 This is the F5 take home assignment:
 
+<i>
 Technical Task: Deploy an application via Orchestration/Infrastructure Configuration
 
  
@@ -26,3 +27,4 @@ If you are not able to fulfill all the requirements it is not considered failure
 How you approach the problem
 What you would adapt / change to improve the solution in the future
 How you update the systems and deploy the application in an orchestrated manner  
+</i>
